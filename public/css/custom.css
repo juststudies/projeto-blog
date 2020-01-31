@@ -1,0 +1,10 @@
+a.nav-link-custom{
+    font-size: 16px;
+    text-decoration: none;
+    color: #ccc;
+    
+}
+
+a.nav-link-custom:hover{
+    color: #fff;
+}
